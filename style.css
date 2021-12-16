@@ -1,0 +1,57 @@
+body
+{
+	color: #3F3F3F;
+	font-family: 'roboto';
+	background-image: url('images/hex.png')
+}
+
+
+h1
+{
+font-family: 'poppins', san serif;
+color: #952EDA;
+font-size: 45px;
+text-align: left;
+}
+a
+{
+text-decoration: none;
+color: #952EDA;
+}
+
+a:hover
+{
+	font-weight: bold;
+}
+
+#container
+{
+width: 960px;
+margin: auto;
+background-color: white;
+}
+#menu li
+{
+	display: inline;
+	padding-right: 20px;
+}
+#menu
+{
+	background-color: #952EDA;
+	padding: 25px;
+}
+#menu a
+{
+	color:white;
+}
+.focus
+{
+	font-family: 'poppins';
+	font-size: : 20px;
+	padding-left: 20px;
+	color: #AA77F6;
+}
+#content
+{
+	padding: 20px;
+}
